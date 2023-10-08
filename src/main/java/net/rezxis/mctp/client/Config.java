@@ -8,7 +8,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class Config {
 	
-	public String host = "mctp1.nohit.cc";
+	public String host = "mctp.ruskserver.com";
 	public int port = 9998;
 	
 	public Config(JavaPlugin plugin) throws Exception {
