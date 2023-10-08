@@ -1,4 +1,3 @@
-[![GitHub issues](https://img.shields.io/github/issues/RezxisNetwork/MinecraftTransport-Client?style=for-the-badge)](https://github.com/RuskLabo/MinecraftTransport-Client-RuskServer/issues)
 [![GitHub license](https://img.shields.io/github/license/RezxisNetwork/MinecraftTransport-Client?style=for-the-badge)](https://github.com/RezxisNetwork/MinecraftTransport-Client)
 # MinecraftTransport-Client
 This is a Spigot plugin that allows you to publish a server without opening ports.  
