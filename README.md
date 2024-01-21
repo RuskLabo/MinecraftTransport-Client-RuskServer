@@ -14,7 +14,7 @@ version 0.0.1-SNAPSHOT and version 0.0.2-SNAPSHOT are not compatible!
 you have to regenerate configuration file.
 
 # Proxy Server
-mctp.ruskserver.com:9998 (3台分のポートのみ 実験的)
+Stop Server
 
 # Support
 https://discord.gg/uMT9mxYtBG
